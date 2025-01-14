@@ -14,7 +14,7 @@
 ## Rodar o container
 
 ```bash
-    docker run -d --name mysql_local -p 3306:3306 mysql_screensound
+    docker run -d --name mysql_screensound -p 3306:3306 mysql_screensound
 ```
 
 ## Acessando o Mysql
